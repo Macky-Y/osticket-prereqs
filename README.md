@@ -56,15 +56,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
 <p>
-<img src="https://i.imgur.com/vgfbciP.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/jZdNEGl.png" height="80%" width="80%" alt=""/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/hyiPqYe.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/Bgomd73.png" height="80%" width="80%" alt=""/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/B6fRHW9.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/ZnkxePv.png" height="80%" width="80%" alt=""/>
 </p>
 
 <p>
