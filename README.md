@@ -569,14 +569,6 @@ Click <ins>Yes</ins> and now we're connected to our Windows VM.
 <img src="https://i.imgur.com/lPseUBV.png" height="80%" width="80%" alt="" />
 </p>
 
-<p>
-<img src="" height="80%" width="80%" alt="" />
-</p>
-
-<p>
-<img src="" height="80%" width="80%" alt="" />
-</p>
-
 <p> 
 Our osTicket is now configured and running, now we can login and play with it, see this <a href="https://github.com/Macky-Y/post-install-config">repository</a> to learn how this ticketing system works.
 </p>
