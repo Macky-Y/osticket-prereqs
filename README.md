@@ -499,10 +499,74 @@ Click <ins>Yes</ins> and now we're connected to our Windows VM.
 <img src="https://i.imgur.com/T42XPSJ.png" height="80%" width="80%" alt="" />
 </p>
 
-- From the downloaded file, open and install <ins>HeidiSQL_12.3.0.6589_Setup.exe</ins>. Once it finished downloading open it.
+- From the downloaded file, open and install <ins>HeidiSQL_12.3.0.6589_Setup.exe</ins>. Once it finished downloading open it and follow these steps.
 
 <p>
-<img src="" height="80%" width="80%" alt="" />
+<img src="https://i.imgur.com/uI9adES.png" height="80%" width="80%" alt="" />
+</p>
+
+<p>
+<img src="https://i.imgur.com/uaR0LRj.png" height="80%" width="80%" alt="" />
+</p>
+
+<p>
+<img src="https://i.imgur.com/LqqnQPC.png" height="80%" width="80%" alt="" />
+</p>
+
+<p>
+<img src="https://i.imgur.com/SAGTQRB.png" height="80%" width="80%" alt="" />
+</p>
+
+<p>
+<img src="https://i.imgur.com/hULCV2j.png" height="80%" width="80%" alt="" />
+</p>
+
+- Once we successfully configured osTicket we will be redirected to this page.
+
+<p>
+<img src="https://i.imgur.com/sQTW79Y.png" height="80%" width="80%" alt="" />
+</p>
+
+<p>
+<img src="https://i.imgur.com/HVPMI0U.png" height="80%" width="80%" alt="" />
+</p>
+
+<p>
+22. Before we play with our ticketing system, follow these last steps. Go to the path: <ins>C:\inetpub\wwwroot\osTicket</ins>.
+</p>
+
+<p>
+<img src="https://i.imgur.com/wwAJghF.png" height="80%" width="80%" alt="" />
+</p>
+
+<p>
+22. Open the <ins>include</ins> folder inside <ins>osTicket</ins> and follow these steps.
+</p>
+
+<p>
+<img src="https://i.imgur.com/305ZX6c.png" height="80%" width="80%" alt="" />
+</p>
+
+
+<p>
+<img src="https://i.imgur.com/NLQOeB1.png" height="80%" width="80%" alt="" />
+</p>
+
+<p>
+<img src="https://i.imgur.com/8SRLiuY.png" height="80%" width="80%" alt="" />
+</p>
+
+
+<p>
+<img src="https://i.imgur.com/nnp1EH9.png" height="80%" width="80%" alt="" />
+</p>
+
+<p>
+<img src="https://i.imgur.com/15rR3qz.png" height="80%" width="80%" alt="" />
+</p>
+
+<p>
+<img src="https://i.imgur.com/lPseUBV.png" height="80%" width="80%" alt="" />
 </p>
 
 <p>
@@ -513,100 +577,6 @@ Click <ins>Yes</ins> and now we're connected to our Windows VM.
 <img src="" height="80%" width="80%" alt="" />
 </p>
 
-<p>
-<img src="" height="80%" width="80%" alt="" />
+<p> 
+Our osTicket is now configured and running, now we can login and play with it, see this <a href="https://github.com/Macky-Y/post-install-config">repository</a> to learn how this ticketing system works.
 </p>
-
-<p>
-<img src="" height="80%" width="80%" alt="" />
-</p>
-
-<p>
-<img src="" height="80%" width="80%" alt="" />
-</p>
-
-<p>
-<img src="" height="80%" width="80%" alt="" />
-</p>
-
-<p>
-<img src="" height="80%" width="80%" alt="" />
-</p>
-
-
-
-
-<p>
-<img src="" height="80%" width="80%" alt="" />
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p>
-<img src="" height="80%" width="80%" alt="" />
-</p>
-
-<p>
-<img src="" height="80%" width="80%" alt="" />
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p>
-<img src="" height="80%" width="80%" alt="" />
-</p>
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-
-
-
-
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-
-<br />
-
-
-
-<br />
-
-
-
-<br />
