@@ -93,9 +93,126 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/f9edjg9.png" height="80%" width="80%" alt="" />
 </p>
 
+- Once we clicked <ins>Review + Create</ins> let's wait for the VM to finish deployment
+
+<p>
+<img src="https://i.imgur.com/Nevweih.png" height="80%" width="80%" alt="" />
+</p>
+
+- Once it says <ins>Your deployment is complete</ins>, do these steps.
+
+<p>
+<img src="https://i.imgur.com/XNaJmXA.png" height="80%" width="80%" alt="" />
+</p>
+
+<p>
+<img src="https://i.imgur.com/Kn93TF0.png" height="80%" width="80%" alt="" />
+</p>
+
+- Our deployed VM will appear in this page.
+
+<p>
+<img src="https://i.imgur.com/G94BL6r.png" height="80%" width="80%" alt="" />
+</p>
+
+<p>
+4. For macOS users, download <ins>Microsoft Remote Desktop</ins>. We will use this to connect to our VM. If you're using Windows, use <ins>Remote Desktop Connection</ins>, the steps are the same.
+</p>
+
+<p>
+<img src="https://i.imgur.com/2a8lxLn.png" height="80%" width="80%" alt="" />
+</p>
+
+<p>
+5. Let's connect to our VM by following these steps.
+</p>
+
+<p>
+<img src="https://i.imgur.com/hgWCVmt.png" height="80%" width="80%" alt="" />
+</p>
+
+<p>
+<img src="https://i.imgur.com/ZgV6B3V.png" height="80%" width="80%" alt="" />
+</p>
+
+- Now open <ins>Microsoft Remote Desktop</ins> application.
+- Once the application is open, you will see this screen.
+
+<p>
+<img src="https://i.imgur.com/yJKcOc8.png" height="80%" width="80%" alt="" />
+</p>
+
+- Follow these steps to connect to our VM.
+
+<p>
+<img src="https://i.imgur.com/rsidiIf.png" height="80%" width="80%" alt="" />
+</p>
+
+<p>
+<img src="https://i.imgur.com/6OeiM8c.png" height="80%" width="80%" alt="" />
+</p>
+
+- Once we added our VM, you will be taken to this page. Double click it to connect.
+
+<p>
+<img src="https://i.imgur.com/NWtaoN7.png" height="80%" width="80%" alt="" />
+</p>
+
+- You will be asked for your credentials to connect to our VM. Input the username and password we created earlier and click <ins>Continue</ins>.
+
+<p>
+<img src="https://i.imgur.com/E33Dtdn.png" height="80%" width="80%" alt="" />
+</p>
+
+- Click <ins>Continue</ins>.
+
+<p>
+<img src="https://i.imgur.com/sCdGfCO.png" height="80%" width="80%" alt="" />
+</p>
+
+- Now we will wait for the application to connect to the VM.
+
+<p>
+<img src="https://i.imgur.com/LRfJBAI.png" height="80%" width="80%" alt="" />
+</p>
+
+- Select <ins>No</ins> to everything and click <ins>Accept</ins>.
+
+<p>
+<img src="https://i.imgur.com/D8eKCVb.png" height="80%" width="80%" alt="" />
+</p>
+
+<p>
+Click <ins>Yes</ins> and now we're connected to our Windows VM.
+
+<p>
+<img src="https://i.imgur.com/g5Yxe4p.png" height="80%" width="80%" alt="" />
+</p>
+
+
+
+
+
+
+
 <p>
 <img src="" height="80%" width="80%" alt="" />
 </p>
+
+<p>
+<img src="" height="80%" width="80%" alt="" />
+</p>
+
+<p>
+<img src="" height="80%" width="80%" alt="" />
+</p>
+
+
+
+
+
+
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
